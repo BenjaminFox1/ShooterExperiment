@@ -2,6 +2,9 @@
 
 [Here](https://benjaminfox1.github.io/ShooterExperiment/) is a quick experiment with using the sin function to oscillate the movements of enemies rather than using a conditional loop.
 
+<details><summary>Code Below</summary>
+<p>
+
 ```javascript
 // Experimenting with the sin function as a means to move aliens across a screen
 // Using an array to store and then fire bullets at the enemy
@@ -106,3 +109,5 @@ function mousePressed () {
   bullets.push(bullet)
 }
 ```
+</p>
+</details>
