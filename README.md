@@ -2,6 +2,8 @@
 
 [Here](https://benjaminfox1.github.io/ShooterExperiment/) is a quick experiment with using the sin function to oscillate the movements of enemies rather than using a conditional loop.
 
+Left mouse button fires, no collision detection yet though.
+
 <details><summary>Code Below</summary>
 <p>
 
